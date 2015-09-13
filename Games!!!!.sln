@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01HangingManGame", "HangingManGame\01HangingManGame.csproj", "{4C48AF6C-02CF-489B-9DE6-2A6F53771D04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Cars", "Cars\02Cars.csproj", "{454C0EEE-7F5E-495E-A85F-E9272DE1F470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03PingPong", "PingPong\03PingPong.csproj", "{A1AE8260-1724-498A-9394-BC60160C40C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C48AF6C-02CF-489B-9DE6-2A6F53771D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C48AF6C-02CF-489B-9DE6-2A6F53771D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C48AF6C-02CF-489B-9DE6-2A6F53771D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C48AF6C-02CF-489B-9DE6-2A6F53771D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{454C0EEE-7F5E-495E-A85F-E9272DE1F470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454C0EEE-7F5E-495E-A85F-E9272DE1F470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454C0EEE-7F5E-495E-A85F-E9272DE1F470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454C0EEE-7F5E-495E-A85F-E9272DE1F470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AE8260-1724-498A-9394-BC60160C40C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AE8260-1724-498A-9394-BC60160C40C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AE8260-1724-498A-9394-BC60160C40C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AE8260-1724-498A-9394-BC60160C40C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
